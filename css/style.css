@@ -110,12 +110,14 @@ nav {
 .content {
  width: 80%;
  float: left;
+ display: inline-block;
 }
 
 .arrow {
  width: 4%;
  float: right;
  padding-top: 5%;
+ display: inline-block;
 }
 
 h1 {
